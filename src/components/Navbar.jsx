@@ -21,7 +21,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
           >
-            <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
+            <img src="sam1.png" alt='logo' className='w-16 h-16 object-contain rounded-[20px]' />
             <p className='text-white text-[18px] font-bold cursor-pointer'>Sam Muthaiga <span className='sm:block hidden'>|  My Portfolio</span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
