@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    // project3,
   } from "../assets";
   
   export const navLinks = [
@@ -198,7 +199,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Movers App",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -207,8 +208,8 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
-          color: "green-text-gradient",
+          name: "Ruby on Rails",
+          color: "red-text-gradient",
         },
         {
           name: "tailwind",
